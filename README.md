@@ -1,2 +1,2 @@
-# Scripts
----------- Script on pop it trading.
+# Updates
+----------- Crash added, auto buy, buy etc.
